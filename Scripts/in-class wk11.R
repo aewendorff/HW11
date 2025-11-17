@@ -110,6 +110,6 @@ summary(lm_model)
         #Free-flowing: intercept = 19.44, slope = 3.06
         #Impounded (interaction value + baseline value): intercept = 30.62, slope = 4.47
     #Actual:
-        ##Free-flowing: intercept = , slope = 
-        #Impounded: intercep = , slope = 
-    #
+        ##Free-flowing: intercept = 20, slope = 3
+        #Impounded: intercept = 30, slope = 4.5
+    #The true values and the values from my ANCOVA model are almost identical to one another.
